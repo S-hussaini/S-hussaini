@@ -53,7 +53,7 @@ Includes authentication, task tracking, GPS features, and reporting tools.
 ## 🛠️ Technical Skills
 
 ### 💻 Languages
-JavaScript • TypeScript • Python • HTML • CSS  
+JavaScript • Python • HTML • CSS  
 
 ### ⚛️ Frontend
 React • React Native • Expo • Tailwind CSS  
@@ -64,8 +64,8 @@ supabase • Firebase • MySQL
 ### 🎨 UI/UX
 Figma • Wireframing • Prototyping  
 
-### ☁️ Tools
-Git • GitHub • Vercel • Postman  
+### ☁️ Tools & Platforms
+Git • GitHub • Vercel • Jira  
 
 ---
 
