@@ -73,8 +73,7 @@ Git • GitHub • Vercel • Jira
 ## 📫 Contact Me
 
 📧 Email: Shussainikh@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/sheeba-hussaini-448a2a33a/  
-🐙 GitHub: https://github.com/
+💼 LinkedIn: https://www.linkedin.com/in/sheeba-hussaini-448a2a33a/ 
 
 ---
 
