@@ -5,6 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-Shussainikh%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shussainikh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheeba%20Hussaini-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sheeba-hussaini-448a2a33a/)
 [![Resume](https://img.shields.io/badge/Sheeba%20Hussaini-Resume-green?style=for-the-badge&logo=googledrive&logoColor=white)](https://myresume-inky.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Sheeba%20Hussaini-purple?style=for-the-badge&logo=vercel&logoColor=white)](https://sheebafolio.vercel.app/)
 
 ---
 
